@@ -1,0 +1,6 @@
+https://rcarto.github.io/geomatique_avec_r/acquisition-de-donn%C3%A9es-spatiales.html#%C3%A0-l%C3%A9chelle-national
+
+https://hpecout.gitpages.huma-num.fr/init_stat_descript_r/#statistique-univari%C3%A9e
+
+https://rcarto.github.io/cartographie_avec_r/les-types-de-cartes.html
+https://github.com/rCarto
